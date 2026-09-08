@@ -2,7 +2,7 @@
 
 ## Computing Science major interested in using technology to simplify complex tasks in an environmentally sound fashion
 
-
+[![@hug0g0's Holopin board](https://holopin.io/api/user/board?user=hug0g0)](https://holopin.io/@hug0g0)
 
 <!--
 **udedeo/udedeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
