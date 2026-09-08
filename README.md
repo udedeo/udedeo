@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there ,
+
+## Computing Science major interested in using technology to simplify complex tasks in an environmentally sound fashion
+
+
 
 <!--
 **udedeo/udedeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
